@@ -1,0 +1,13 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin/
+/obj/
+
+/ex13_Chiffres_Romains/bin/
+/ex13_Chiffres_Romains/obj/
+
+/ex13_Chiffres_RomainsTests/bin/
+/ex13_Chiffres_RomainsTests/obj/
